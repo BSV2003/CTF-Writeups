@@ -1,47 +1,65 @@
-# 🚩 CTF Writeups – Cybersecurity Learning Portfolio
+# 🚩 CTF Writeups | Cybersecurity Learning Portfolio
 
-Welcome to my Capture The Flag (CTF) writeups repository.
+Welcome to my CTF writeups repository.
 
-I use this space to document my practical learning, challenges solved, and skills developed in cybersecurity through hands-on problem solving.
+This repository documents my hands-on learning journey in cybersecurity through real Capture The Flag competitions.
 
 ---
 
 ## 👤 About Me
 
-I am a cybersecurity learner exploring multiple domains through CTF competitions including web security, cryptography, and miscellaneous challenges.  
-My approach is learning by doing, analyzing real problems, and documenting my progress publicly.
+I am a cybersecurity learner who started exploring CTFs to gain practical exposure to real-world security challenges.
+
+Currently, I am experimenting with multiple domains such as web security, cryptography, and miscellaneous challenges to build strong fundamentals before specializing.
 
 ---
 
-## 📂 CTF Events
+## 🚀 Why CTFs?
 
-| Event | Year | Score | Rank |
-|-------|------|--------|------|
-| Nullcon CTF | 2026 | 102 | 308 |
+I use CTFs to:
 
-More CTF events will be added here as I participate and write new writeups.
-
----
-
-## 🛠️ Skills Practiced
-
-- Web Exploitation Fundamentals  
-- Cryptographic Concept Analysis  
-- Source Code Review  
-- Problem Solving & Debugging  
-- Linux & Terminal Tools
+- Practice real attack and defense concepts  
+- Improve problem-solving under pressure  
+- Learn from mistakes and community writeups  
+- Build a public learning portfolio  
 
 ---
 
-## 📈 Growth Philosophy
+## 📂 CTF Experience
 
-I believe in:
-
-✔ Learning by doing  
-✔ Staying curious  
-✔ Improving every week  
-✔ Sharing knowledge publicly
+| Event | Year | Score | Rank | Role |
+|-------|------|-------|------|------|
+| Nullcon CTF | 2026 | 102 | 308 | Main Contributor |
 
 ---
 
-⭐ This repository reflects my journey — not just achievements.
+## 🛠️ Skills & Tools
+
+- Web Exploitation Basics  
+- Cryptography Fundamentals  
+- Source Code Analysis  
+- Linux CLI  
+- Burp Suite (Basic)  
+- Browser DevTools  
+
+---
+
+## 📈 Learning Process
+
+My learning workflow:
+
+1. Attempt challenges independently  
+2. Analyze failures  
+3. Study references  
+4. Reproduce solutions  
+5. Document learnings  
+
+---
+
+## 🎯 Goal
+
+To become a skilled cybersecurity professional through continuous hands-on practice and improvement.
+
+---
+
+⭐ This repository represents my learning progress and growth mindset.
