@@ -46,3 +46,17 @@ My first official Capture The Flag competition.
 ---
 
 This CTF motivated me to continue practicing and improving.
+
+---
+
+## 📸 Event Proof
+
+### 🏆 Scoreboard
+![Scoreboard](images/scoreboard.png)
+
+### 👥 Team Overview
+![Team](images/team.png)
+
+### 🧩 Solved Challenges
+![Solves](images/solves.png)
+
